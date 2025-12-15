@@ -1,4 +1,4 @@
-import productoRepository from "../repository/productoRepository.mjs";
+import productoRepository from "../repository/ProductoRepository.mjs";
 
 
 export async function obtenerProductosService() {
