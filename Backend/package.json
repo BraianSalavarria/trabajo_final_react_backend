@@ -1,6 +1,7 @@
 {
   "name": "panaderia",
   "version": "1.0.0",
+  "type": "module",
   "description": "api para una panaderia",
   "main": "app.mjs",
   "scripts": {
