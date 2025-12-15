@@ -167,7 +167,7 @@ Actualmente el proyecto puede ser probado utilizando:
 Para facilitar la evaluación y prueba de la API, se provee una **colección de Postman** con todos los endpoints del sistema.
 
 🔗 **Enlace a la colección Postman:**
-👉 *(Agregar aquí el link público de Postman)*
+👉 * https://web.postman.co/workspace/f53e0c6d-a9d7-4c74-84c9-199d05ea41d7/collection/42563303-7a992e34-3282-44d3-9ee1-e37e2c4b979a?action=share&source=copy-link&creator=42563303
 
 La colección incluye:
 
